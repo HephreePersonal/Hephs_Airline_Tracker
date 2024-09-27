@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "xdebug",
+			"path": "../Xdebug/xdebug"
+		}
+	],
+	"settings": {}
+}
